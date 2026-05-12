@@ -1,0 +1,14 @@
+Age,Gender,Education,City,Experience,Salary
+25,Male,Graduate,Delhi,2,30000
+30,Female,Postgraduate,Mumbai,5,60000
+22,Female,Graduate,Chennai,1,25000
+35,Male,Postgraduate,Bangalore,8,80000
+28,Male,Graduate,Delhi,3,40000
+40,Female,Postgraduate,Mumbai,10,90000
+23,Male,School,Jaipur,1,20000
+32,Female,Graduate,Delhi,6,65000
+29,Male,Graduate,Pune,4,50000
+38,Female,Postgraduate,Bangalore,9,85000
+27,,Graduate,Delhi,3,42000
+45,Male,,Mumbai,12,100000
+,,Postgraduate,Chennai,7,70000
